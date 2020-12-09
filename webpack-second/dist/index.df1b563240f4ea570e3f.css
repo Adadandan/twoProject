@@ -1,0 +1,13 @@
+html{
+	font-size: 24px;
+}
+body{
+	background-color: green;
+}
+div p {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  font-size: 20px;
+}
+
